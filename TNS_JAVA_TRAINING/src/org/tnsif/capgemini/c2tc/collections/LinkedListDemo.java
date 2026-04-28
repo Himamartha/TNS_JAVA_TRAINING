@@ -4,7 +4,7 @@ package org.tnsif.capgemini.c2tc.collections;
 import java.util.LinkedList;
 import java.util.List;
 
-public class LinkedList {
+public class LinkedListDemo {
 
 	public static void main(String[] args) {
 		List<String> fruits=new LinkedList<>();

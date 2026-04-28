@@ -2,7 +2,7 @@ package org.tnsif.capgemini.c2tc.collections;
 
 import java.util.HashSet;
 
-public class HashSet {
+public class HashSetDemo {
 
 	public static void main(String[] args) {
 		HashSet<String> set=new HashSet<>();

@@ -1,6 +1,6 @@
 package org.tnsif.capgemini.c2tc.exceptionhandling;
 
-public class NullPointerException {
+public class NullPointerExceptionDemo {
 
 	public static void main(String[] args) {
 		 String str=null;

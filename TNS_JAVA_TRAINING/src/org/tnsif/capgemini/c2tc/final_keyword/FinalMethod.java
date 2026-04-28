@@ -2,7 +2,7 @@ package org.tnsif.capgemini.c2tc.final_keyword;
 
 class calc
 {
-	public final void show()
+	public void show()
 	{
 		//code implementation
 		System.out.println("AI integration done by hema");

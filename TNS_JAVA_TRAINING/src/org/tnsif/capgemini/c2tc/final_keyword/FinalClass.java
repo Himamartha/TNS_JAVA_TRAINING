@@ -1,6 +1,6 @@
 package org.tnsif.capgemini.c2tc.final_keyword;
 
-final class ImplementByHema
+class ImplementByHema
 {
 	public void show()
 	{

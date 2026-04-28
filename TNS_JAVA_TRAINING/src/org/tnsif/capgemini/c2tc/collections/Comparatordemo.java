@@ -47,7 +47,7 @@ class AgeComparator implements Comparator<Person7>
 	}
 	
 }
-public class Comparator {
+public class Comparatordemo {
 
 	public static void main(String[] args) {
 		List<Person7> people=new ArrayList<>();
